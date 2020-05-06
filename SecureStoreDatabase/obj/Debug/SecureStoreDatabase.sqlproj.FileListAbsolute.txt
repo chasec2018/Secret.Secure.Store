@@ -1,0 +1,16 @@
+C:\Users\chase\source\Repos (Project)\Assimalign LLC\SecureStore\SecureStoreSolution\SecureStoreDatabase\bin\Debug\SecureStoreDatabase.dacpac
+C:\Users\chase\source\Repos (Project)\Assimalign LLC\SecureStore\SecureStoreSolution\SecureStoreDatabase\obj\Debug\SecureStoreDatabase.sqlprojAssemblyReference.cache
+C:\Users\chase\source\Repos (Project)\Assimalign LLC\SecureStore\SecureStoreSolution\SecureStoreDatabase\obj\Debug\Model.xml
+C:\Users\chase\source\Repos (Project)\Assimalign LLC\SecureStore\SecureStoreSolution\SecureStoreDatabase\obj\Debug\refactor.xml
+C:\Users\chase\source\Repos (Project)\Assimalign LLC\SecureStore\SecureStoreSolution\SecureStoreDatabase\obj\Debug\postdeploy.sql
+C:\Users\chase\source\Repos (Project)\Assimalign LLC\SecureStore\SecureStoreSolution\SecureStoreDatabase\obj\Debug\predeploy.sql
+C:\Users\chase\source\Repos (Project)\Assimalign LLC\SecureStore\SecureStoreSolution\SecureStoreDatabase\obj\Debug\SecureStoreDatabase.dll
+C:\Users\chase\source\Repos (Project)\Assimalign LLC\SecureStore\SecureStoreSolution\SecureStoreDatabase\obj\Debug\SecureStoreDatabase.pdb
+C:\Users\chase\source\Repos (Project)\Assimalign LLC\SecureStore\SecureStoreSolution\SecureStoreDatabase\bin\Debug\SecureStoreDatabase.dll
+C:\Users\chase\source\Repos (Project)\Assimalign LLC\SecureStore\SecureStoreSolution\SecureStoreDatabase\bin\Debug\SecureStoreDatabase.pdb
+P:\Assimalign LLC\SecureStore\SecureStoreSolution\SecureStoreDatabase\bin\Debug\SecureStoreData.dacpac
+P:\Assimalign LLC\SecureStore\SecureStoreSolution\SecureStoreDatabase\bin\Debug\SecureStoreData.dll
+P:\Assimalign LLC\SecureStore\SecureStoreSolution\SecureStoreDatabase\bin\Debug\SecureStoreData.pdb
+P:\Assimalign LLC\SecureStore\SecureStoreSolution\SecureStoreDatabase\obj\Debug\SecureStoreData.dll
+P:\Assimalign LLC\SecureStore\SecureStoreSolution\SecureStoreDatabase\obj\Debug\SecureStoreData.pdb
+P:\Assimalign LLC\SecureStore\SecureStoreSolution\SecureStoreDatabase\obj\Debug\SecureStoreDatabase.sqlprojAssemblyReference.cache

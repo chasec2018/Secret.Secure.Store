@@ -1,0 +1,327 @@
+P:\Assimalign LLC\SecureStore\SecureStoreSolution\SecureStoreService\bin\Debug\netcoreapp3.1\appsettings.Development.json
+P:\Assimalign LLC\SecureStore\SecureStoreSolution\SecureStoreService\bin\Debug\netcoreapp3.1\appsettings.json
+P:\Assimalign LLC\SecureStore\SecureStoreSolution\SecureStoreService\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+P:\Assimalign LLC\SecureStore\SecureStoreSolution\SecureStoreService\bin\Debug\netcoreapp3.1\SecureStoreService.exe
+P:\Assimalign LLC\SecureStore\SecureStoreSolution\SecureStoreService\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+P:\Assimalign LLC\SecureStore\SecureStoreSolution\SecureStoreService\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+P:\Assimalign LLC\SecureStore\SecureStoreSolution\SecureStoreService\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+P:\Assimalign LLC\SecureStore\SecureStoreSolution\SecureStoreService\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+P:\Assimalign LLC\SecureStore\SecureStoreSolution\SecureStoreService\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+P:\Assimalign LLC\SecureStore\SecureStoreSolution\SecureStoreService\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+P:\Assimalign LLC\SecureStore\SecureStoreSolution\SecureStoreService\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+P:\Assimalign LLC\SecureStore\SecureStoreSolution\SecureStoreService\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+P:\Assimalign LLC\SecureStore\SecureStoreSolution\SecureStoreService\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+P:\Assimalign LLC\SecureStore\SecureStoreSolution\SecureStoreService\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+P:\Assimalign LLC\SecureStore\SecureStoreSolution\SecureStoreService\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+P:\Assimalign LLC\SecureStore\SecureStoreSolution\SecureStoreService\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+P:\Assimalign LLC\SecureStore\SecureStoreSolution\SecureStoreService\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+P:\Assimalign LLC\SecureStore\SecureStoreSolution\SecureStoreService\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+P:\Assimalign LLC\SecureStore\SecureStoreSolution\SecureStoreService\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+P:\Assimalign LLC\SecureStore\SecureStoreSolution\SecureStoreService\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+P:\Assimalign LLC\SecureStore\SecureStoreSolution\SecureStoreService\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+P:\Assimalign LLC\SecureStore\SecureStoreSolution\SecureStoreService\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+P:\Assimalign LLC\SecureStore\SecureStoreSolution\SecureStoreService\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+P:\Assimalign LLC\SecureStore\SecureStoreSolution\SecureStoreService\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+P:\Assimalign LLC\SecureStore\SecureStoreSolution\SecureStoreService\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+P:\Assimalign LLC\SecureStore\SecureStoreSolution\SecureStoreService\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+P:\Assimalign LLC\SecureStore\SecureStoreSolution\SecureStoreService\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+P:\Assimalign LLC\SecureStore\SecureStoreSolution\SecureStoreService\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+P:\Assimalign LLC\SecureStore\SecureStoreSolution\SecureStoreService\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+P:\Assimalign LLC\SecureStore\SecureStoreSolution\SecureStoreService\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+P:\Assimalign LLC\SecureStore\SecureStoreSolution\SecureStoreService\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+P:\Assimalign LLC\SecureStore\SecureStoreSolution\SecureStoreService\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+P:\Assimalign LLC\SecureStore\SecureStoreSolution\SecureStoreService\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+P:\Assimalign LLC\SecureStore\SecureStoreSolution\SecureStoreService\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+P:\Assimalign LLC\SecureStore\SecureStoreSolution\SecureStoreService\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+P:\Assimalign LLC\SecureStore\SecureStoreSolution\SecureStoreService\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+P:\Assimalign LLC\SecureStore\SecureStoreSolution\SecureStoreService\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+P:\Assimalign LLC\SecureStore\SecureStoreSolution\SecureStoreService\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+P:\Assimalign LLC\SecureStore\SecureStoreSolution\SecureStoreService\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+P:\Assimalign LLC\SecureStore\SecureStoreSolution\SecureStoreService\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+P:\Assimalign LLC\SecureStore\SecureStoreSolution\SecureStoreService\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+P:\Assimalign LLC\SecureStore\SecureStoreSolution\SecureStoreService\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+P:\Assimalign LLC\SecureStore\SecureStoreSolution\SecureStoreService\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+P:\Assimalign LLC\SecureStore\SecureStoreSolution\SecureStoreService\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+P:\Assimalign LLC\SecureStore\SecureStoreSolution\SecureStoreService\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+P:\Assimalign LLC\SecureStore\SecureStoreSolution\SecureStoreService\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+P:\Assimalign LLC\SecureStore\SecureStoreSolution\SecureStoreService\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+P:\Assimalign LLC\SecureStore\SecureStoreSolution\SecureStoreService\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+P:\Assimalign LLC\SecureStore\SecureStoreSolution\SecureStoreService\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+P:\Assimalign LLC\SecureStore\SecureStoreSolution\SecureStoreService\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+P:\Assimalign LLC\SecureStore\SecureStoreSolution\SecureStoreService\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+P:\Assimalign LLC\SecureStore\SecureStoreSolution\SecureStoreService\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+P:\Assimalign LLC\SecureStore\SecureStoreSolution\SecureStoreService\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+P:\Assimalign LLC\SecureStore\SecureStoreSolution\SecureStoreService\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+P:\Assimalign LLC\SecureStore\SecureStoreSolution\SecureStoreService\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+P:\Assimalign LLC\SecureStore\SecureStoreSolution\SecureStoreService\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+P:\Assimalign LLC\SecureStore\SecureStoreSolution\SecureStoreService\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+P:\Assimalign LLC\SecureStore\SecureStoreSolution\SecureStoreService\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+P:\Assimalign LLC\SecureStore\SecureStoreSolution\SecureStoreService\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+P:\Assimalign LLC\SecureStore\SecureStoreSolution\SecureStoreService\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+P:\Assimalign LLC\SecureStore\SecureStoreSolution\SecureStoreService\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+P:\Assimalign LLC\SecureStore\SecureStoreSolution\SecureStoreService\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+P:\Assimalign LLC\SecureStore\SecureStoreSolution\SecureStoreService\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+P:\Assimalign LLC\SecureStore\SecureStoreSolution\SecureStoreService\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+P:\Assimalign LLC\SecureStore\SecureStoreSolution\SecureStoreService\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+P:\Assimalign LLC\SecureStore\SecureStoreSolution\SecureStoreService\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+P:\Assimalign LLC\SecureStore\SecureStoreSolution\SecureStoreService\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+P:\Assimalign LLC\SecureStore\SecureStoreSolution\SecureStoreService\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+P:\Assimalign LLC\SecureStore\SecureStoreSolution\SecureStoreService\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+P:\Assimalign LLC\SecureStore\SecureStoreSolution\SecureStoreService\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+P:\Assimalign LLC\SecureStore\SecureStoreSolution\SecureStoreService\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+P:\Assimalign LLC\SecureStore\SecureStoreSolution\SecureStoreService\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+P:\Assimalign LLC\SecureStore\SecureStoreSolution\SecureStoreService\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+P:\Assimalign LLC\SecureStore\SecureStoreSolution\SecureStoreService\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+P:\Assimalign LLC\SecureStore\SecureStoreSolution\SecureStoreService\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+P:\Assimalign LLC\SecureStore\SecureStoreSolution\SecureStoreService\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+P:\Assimalign LLC\SecureStore\SecureStoreSolution\SecureStoreService\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+P:\Assimalign LLC\SecureStore\SecureStoreSolution\SecureStoreService\obj\Debug\netcoreapp3.1\SecureStoreService.Properties.Resources.resources
+P:\Assimalign LLC\SecureStore\SecureStoreSolution\SecureStoreService\obj\Debug\netcoreapp3.1\SecureStoreService.csproj.GenerateResource.cache
+P:\Assimalign LLC\SecureStore\SecureStoreSolution\SecureStoreService\obj\Debug\netcoreapp3.1\SecureStoreService.RazorAssemblyInfo.cache
+P:\Assimalign LLC\SecureStore\SecureStoreSolution\SecureStoreService\obj\Debug\netcoreapp3.1\SecureStoreService.RazorAssemblyInfo.cs
+P:\Assimalign LLC\SecureStore\SecureStoreSolution\SecureStoreService\obj\Debug\netcoreapp3.1\SecureStoreService.AssemblyInfoInputs.cache
+P:\Assimalign LLC\SecureStore\SecureStoreSolution\SecureStoreService\obj\Debug\netcoreapp3.1\SecureStoreService.AssemblyInfo.cs
+P:\Assimalign LLC\SecureStore\SecureStoreSolution\SecureStoreService\obj\Debug\netcoreapp3.1\SecureStoreService.TagHelpers.input.cache
+P:\Assimalign LLC\SecureStore\SecureStoreSolution\SecureStoreService\obj\Debug\netcoreapp3.1\SecureStoreService.TagHelpers.output.cache
+P:\Assimalign LLC\SecureStore\SecureStoreSolution\SecureStoreService\obj\Debug\netcoreapp3.1\SecureStoreService.RazorCoreGenerate.cache
+P:\Assimalign LLC\SecureStore\SecureStoreSolution\SecureStoreService\obj\Debug\netcoreapp3.1\Razor\Pages\Maintenance\Credentials.cshtml.g.cs
+P:\Assimalign LLC\SecureStore\SecureStoreSolution\SecureStoreService\obj\Debug\netcoreapp3.1\Razor\Pages\Maintenance\Main.cshtml.g.cs
+P:\Assimalign LLC\SecureStore\SecureStoreSolution\SecureStoreService\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+P:\Assimalign LLC\SecureStore\SecureStoreSolution\SecureStoreService\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+P:\Assimalign LLC\SecureStore\SecureStoreSolution\SecureStoreService\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+P:\Assimalign LLC\SecureStore\SecureStoreSolution\SecureStoreService\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+P:\Assimalign LLC\SecureStore\SecureStoreSolution\SecureStoreService\obj\Debug\netcoreapp3.1\SecureStoreService.RazorTargetAssemblyInfo.cache
+P:\Assimalign LLC\SecureStore\SecureStoreSolution\SecureStoreService\obj\Debug\netcoreapp3.1\SecureStoreService.RazorTargetAssemblyInfo.cs
+P:\Assimalign LLC\SecureStore\SecureStoreSolution\SecureStoreService\obj\Debug\netcoreapp3.1\SecureStoreService.csproj.CopyComplete
+P:\Assimalign LLC\SecureStore\SecureStoreSolution\SecureStoreService\obj\Debug\netcoreapp3.1\staticwebassets\SecureStoreService.StaticWebAssets.Manifest.cache
+P:\Assimalign LLC\SecureStore\SecureStoreSolution\SecureStoreService\obj\Debug\netcoreapp3.1\staticwebassets\SecureStoreService.StaticWebAssets.xml
+P:\Assimalign LLC\SecureStore\SecureStoreSolution\SecureStoreService\bin\Debug\netcoreapp3.1\SecureStoreService.deps.json
+P:\Assimalign LLC\SecureStore\SecureStoreSolution\SecureStoreService\bin\Debug\netcoreapp3.1\SecureStoreService.runtimeconfig.json
+P:\Assimalign LLC\SecureStore\SecureStoreSolution\SecureStoreService\bin\Debug\netcoreapp3.1\SecureStoreService.runtimeconfig.dev.json
+P:\Assimalign LLC\SecureStore\SecureStoreSolution\SecureStoreService\bin\Debug\netcoreapp3.1\SecureStoreService.dll
+P:\Assimalign LLC\SecureStore\SecureStoreSolution\SecureStoreService\bin\Debug\netcoreapp3.1\SecureStoreService.pdb
+P:\Assimalign LLC\SecureStore\SecureStoreSolution\SecureStoreService\bin\Debug\netcoreapp3.1\SecureStoreService.Views.dll
+P:\Assimalign LLC\SecureStore\SecureStoreSolution\SecureStoreService\bin\Debug\netcoreapp3.1\SecureStoreService.Views.pdb
+P:\Assimalign LLC\SecureStore\SecureStoreSolution\SecureStoreService\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+P:\Assimalign LLC\SecureStore\SecureStoreSolution\SecureStoreService\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+P:\Assimalign LLC\SecureStore\SecureStoreSolution\SecureStoreService\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+P:\Assimalign LLC\SecureStore\SecureStoreSolution\SecureStoreService\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+P:\Assimalign LLC\SecureStore\SecureStoreSolution\SecureStoreService\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+P:\Assimalign LLC\SecureStore\SecureStoreSolution\SecureStoreService\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+P:\Assimalign LLC\SecureStore\SecureStoreSolution\SecureStoreService\obj\Debug\netcoreapp3.1\SecureStoreService.Views.pdb
+P:\Assimalign LLC\SecureStore\SecureStoreSolution\SecureStoreService\obj\Debug\netcoreapp3.1\SecureStoreService.dll
+P:\Assimalign LLC\SecureStore\SecureStoreSolution\SecureStoreService\obj\Debug\netcoreapp3.1\SecureStoreService.pdb
+P:\Assimalign LLC\SecureStore\SecureStoreSolution\SecureStoreService\obj\Debug\netcoreapp3.1\SecureStoreService.genruntimeconfig.cache
+P:\Assimalign LLC\SecureStore\SecureStoreSolution\SecureStoreService\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.BrowserLink.dll
+P:\Assimalign LLC\SecureStore\SecureStoreSolution\SecureStoreService\bin\Debug\netcoreapp3.1\libman.json
+P:\Assimalign LLC\SecureStore\SecureStoreSolution\SecureStoreService\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+P:\Assimalign LLC\SecureStore\SecureStoreSolution\SecureStoreService\bin\Debug\netcoreapp3.1\bundleconfig.json
+C:\Users\chase\source\Repos (Project)\Assimalign LLC\SecureStore\SecureStoreSolution\SecureStoreService\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\chase\source\Repos (Project)\Assimalign LLC\SecureStore\SecureStoreSolution\SecureStoreService\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\chase\source\Repos (Project)\Assimalign LLC\SecureStore\SecureStoreSolution\SecureStoreService\bin\Debug\netcoreapp3.1\bundleconfig.json
+C:\Users\chase\source\Repos (Project)\Assimalign LLC\SecureStore\SecureStoreSolution\SecureStoreService\bin\Debug\netcoreapp3.1\libman.json
+C:\Users\chase\source\Repos (Project)\Assimalign LLC\SecureStore\SecureStoreSolution\SecureStoreService\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\chase\source\Repos (Project)\Assimalign LLC\SecureStore\SecureStoreSolution\SecureStoreService\bin\Debug\netcoreapp3.1\SecureStoreService.exe
+C:\Users\chase\source\Repos (Project)\Assimalign LLC\SecureStore\SecureStoreSolution\SecureStoreService\bin\Debug\netcoreapp3.1\SecureStoreService.deps.json
+C:\Users\chase\source\Repos (Project)\Assimalign LLC\SecureStore\SecureStoreSolution\SecureStoreService\bin\Debug\netcoreapp3.1\SecureStoreService.runtimeconfig.json
+C:\Users\chase\source\Repos (Project)\Assimalign LLC\SecureStore\SecureStoreSolution\SecureStoreService\bin\Debug\netcoreapp3.1\SecureStoreService.runtimeconfig.dev.json
+C:\Users\chase\source\Repos (Project)\Assimalign LLC\SecureStore\SecureStoreSolution\SecureStoreService\bin\Debug\netcoreapp3.1\SecureStoreService.dll
+C:\Users\chase\source\Repos (Project)\Assimalign LLC\SecureStore\SecureStoreSolution\SecureStoreService\bin\Debug\netcoreapp3.1\SecureStoreService.pdb
+C:\Users\chase\source\Repos (Project)\Assimalign LLC\SecureStore\SecureStoreSolution\SecureStoreService\bin\Debug\netcoreapp3.1\SecureStoreService.Views.dll
+C:\Users\chase\source\Repos (Project)\Assimalign LLC\SecureStore\SecureStoreSolution\SecureStoreService\bin\Debug\netcoreapp3.1\SecureStoreService.Views.pdb
+C:\Users\chase\source\Repos (Project)\Assimalign LLC\SecureStore\SecureStoreSolution\SecureStoreService\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\chase\source\Repos (Project)\Assimalign LLC\SecureStore\SecureStoreSolution\SecureStoreService\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\chase\source\Repos (Project)\Assimalign LLC\SecureStore\SecureStoreSolution\SecureStoreService\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\chase\source\Repos (Project)\Assimalign LLC\SecureStore\SecureStoreSolution\SecureStoreService\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\chase\source\Repos (Project)\Assimalign LLC\SecureStore\SecureStoreSolution\SecureStoreService\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\chase\source\Repos (Project)\Assimalign LLC\SecureStore\SecureStoreSolution\SecureStoreService\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\chase\source\Repos (Project)\Assimalign LLC\SecureStore\SecureStoreSolution\SecureStoreService\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.BrowserLink.dll
+C:\Users\chase\source\Repos (Project)\Assimalign LLC\SecureStore\SecureStoreSolution\SecureStoreService\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\chase\source\Repos (Project)\Assimalign LLC\SecureStore\SecureStoreSolution\SecureStoreService\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\chase\source\Repos (Project)\Assimalign LLC\SecureStore\SecureStoreSolution\SecureStoreService\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\chase\source\Repos (Project)\Assimalign LLC\SecureStore\SecureStoreSolution\SecureStoreService\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\chase\source\Repos (Project)\Assimalign LLC\SecureStore\SecureStoreSolution\SecureStoreService\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\chase\source\Repos (Project)\Assimalign LLC\SecureStore\SecureStoreSolution\SecureStoreService\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\chase\source\Repos (Project)\Assimalign LLC\SecureStore\SecureStoreSolution\SecureStoreService\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\chase\source\Repos (Project)\Assimalign LLC\SecureStore\SecureStoreSolution\SecureStoreService\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\chase\source\Repos (Project)\Assimalign LLC\SecureStore\SecureStoreSolution\SecureStoreService\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\chase\source\Repos (Project)\Assimalign LLC\SecureStore\SecureStoreSolution\SecureStoreService\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\chase\source\Repos (Project)\Assimalign LLC\SecureStore\SecureStoreSolution\SecureStoreService\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\chase\source\Repos (Project)\Assimalign LLC\SecureStore\SecureStoreSolution\SecureStoreService\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\chase\source\Repos (Project)\Assimalign LLC\SecureStore\SecureStoreSolution\SecureStoreService\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\chase\source\Repos (Project)\Assimalign LLC\SecureStore\SecureStoreSolution\SecureStoreService\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\chase\source\Repos (Project)\Assimalign LLC\SecureStore\SecureStoreSolution\SecureStoreService\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\chase\source\Repos (Project)\Assimalign LLC\SecureStore\SecureStoreSolution\SecureStoreService\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\chase\source\Repos (Project)\Assimalign LLC\SecureStore\SecureStoreSolution\SecureStoreService\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\chase\source\Repos (Project)\Assimalign LLC\SecureStore\SecureStoreSolution\SecureStoreService\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\chase\source\Repos (Project)\Assimalign LLC\SecureStore\SecureStoreSolution\SecureStoreService\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\chase\source\Repos (Project)\Assimalign LLC\SecureStore\SecureStoreSolution\SecureStoreService\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\chase\source\Repos (Project)\Assimalign LLC\SecureStore\SecureStoreSolution\SecureStoreService\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\chase\source\Repos (Project)\Assimalign LLC\SecureStore\SecureStoreSolution\SecureStoreService\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\chase\source\Repos (Project)\Assimalign LLC\SecureStore\SecureStoreSolution\SecureStoreService\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\chase\source\Repos (Project)\Assimalign LLC\SecureStore\SecureStoreSolution\SecureStoreService\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\chase\source\Repos (Project)\Assimalign LLC\SecureStore\SecureStoreSolution\SecureStoreService\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\chase\source\Repos (Project)\Assimalign LLC\SecureStore\SecureStoreSolution\SecureStoreService\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\chase\source\Repos (Project)\Assimalign LLC\SecureStore\SecureStoreSolution\SecureStoreService\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\chase\source\Repos (Project)\Assimalign LLC\SecureStore\SecureStoreSolution\SecureStoreService\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\chase\source\Repos (Project)\Assimalign LLC\SecureStore\SecureStoreSolution\SecureStoreService\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\chase\source\Repos (Project)\Assimalign LLC\SecureStore\SecureStoreSolution\SecureStoreService\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\chase\source\Repos (Project)\Assimalign LLC\SecureStore\SecureStoreSolution\SecureStoreService\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\chase\source\Repos (Project)\Assimalign LLC\SecureStore\SecureStoreSolution\SecureStoreService\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\chase\source\Repos (Project)\Assimalign LLC\SecureStore\SecureStoreSolution\SecureStoreService\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\chase\source\Repos (Project)\Assimalign LLC\SecureStore\SecureStoreSolution\SecureStoreService\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\chase\source\Repos (Project)\Assimalign LLC\SecureStore\SecureStoreSolution\SecureStoreService\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\chase\source\Repos (Project)\Assimalign LLC\SecureStore\SecureStoreSolution\SecureStoreService\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\chase\source\Repos (Project)\Assimalign LLC\SecureStore\SecureStoreSolution\SecureStoreService\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\chase\source\Repos (Project)\Assimalign LLC\SecureStore\SecureStoreSolution\SecureStoreService\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\chase\source\Repos (Project)\Assimalign LLC\SecureStore\SecureStoreSolution\SecureStoreService\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\chase\source\Repos (Project)\Assimalign LLC\SecureStore\SecureStoreSolution\SecureStoreService\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\chase\source\Repos (Project)\Assimalign LLC\SecureStore\SecureStoreSolution\SecureStoreService\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\chase\source\Repos (Project)\Assimalign LLC\SecureStore\SecureStoreSolution\SecureStoreService\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\chase\source\Repos (Project)\Assimalign LLC\SecureStore\SecureStoreSolution\SecureStoreService\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\chase\source\Repos (Project)\Assimalign LLC\SecureStore\SecureStoreSolution\SecureStoreService\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\chase\source\Repos (Project)\Assimalign LLC\SecureStore\SecureStoreSolution\SecureStoreService\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\chase\source\Repos (Project)\Assimalign LLC\SecureStore\SecureStoreSolution\SecureStoreService\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\chase\source\Repos (Project)\Assimalign LLC\SecureStore\SecureStoreSolution\SecureStoreService\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\chase\source\Repos (Project)\Assimalign LLC\SecureStore\SecureStoreSolution\SecureStoreService\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\chase\source\Repos (Project)\Assimalign LLC\SecureStore\SecureStoreSolution\SecureStoreService\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\chase\source\Repos (Project)\Assimalign LLC\SecureStore\SecureStoreSolution\SecureStoreService\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\chase\source\Repos (Project)\Assimalign LLC\SecureStore\SecureStoreSolution\SecureStoreService\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\chase\source\Repos (Project)\Assimalign LLC\SecureStore\SecureStoreSolution\SecureStoreService\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\chase\source\Repos (Project)\Assimalign LLC\SecureStore\SecureStoreSolution\SecureStoreService\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\chase\source\Repos (Project)\Assimalign LLC\SecureStore\SecureStoreSolution\SecureStoreService\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\chase\source\Repos (Project)\Assimalign LLC\SecureStore\SecureStoreSolution\SecureStoreService\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\chase\source\Repos (Project)\Assimalign LLC\SecureStore\SecureStoreSolution\SecureStoreService\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\chase\source\Repos (Project)\Assimalign LLC\SecureStore\SecureStoreSolution\SecureStoreService\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\chase\source\Repos (Project)\Assimalign LLC\SecureStore\SecureStoreSolution\SecureStoreService\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\chase\source\Repos (Project)\Assimalign LLC\SecureStore\SecureStoreSolution\SecureStoreService\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\chase\source\Repos (Project)\Assimalign LLC\SecureStore\SecureStoreSolution\SecureStoreService\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\chase\source\Repos (Project)\Assimalign LLC\SecureStore\SecureStoreSolution\SecureStoreService\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\chase\source\Repos (Project)\Assimalign LLC\SecureStore\SecureStoreSolution\SecureStoreService\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\chase\source\Repos (Project)\Assimalign LLC\SecureStore\SecureStoreSolution\SecureStoreService\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\chase\source\Repos (Project)\Assimalign LLC\SecureStore\SecureStoreSolution\SecureStoreService\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\chase\source\Repos (Project)\Assimalign LLC\SecureStore\SecureStoreSolution\SecureStoreService\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\chase\source\Repos (Project)\Assimalign LLC\SecureStore\SecureStoreSolution\SecureStoreService\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\chase\source\Repos (Project)\Assimalign LLC\SecureStore\SecureStoreSolution\SecureStoreService\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\chase\source\Repos (Project)\Assimalign LLC\SecureStore\SecureStoreSolution\SecureStoreService\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\chase\source\Repos (Project)\Assimalign LLC\SecureStore\SecureStoreSolution\SecureStoreService\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\chase\source\Repos (Project)\Assimalign LLC\SecureStore\SecureStoreSolution\SecureStoreService\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\chase\source\Repos (Project)\Assimalign LLC\SecureStore\SecureStoreSolution\SecureStoreService\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\chase\source\Repos (Project)\Assimalign LLC\SecureStore\SecureStoreSolution\SecureStoreService\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\chase\source\Repos (Project)\Assimalign LLC\SecureStore\SecureStoreSolution\SecureStoreService\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\chase\source\Repos (Project)\Assimalign LLC\SecureStore\SecureStoreSolution\SecureStoreService\obj\Debug\netcoreapp3.1\SecureStoreService.csprojAssemblyReference.cache
+C:\Users\chase\source\Repos (Project)\Assimalign LLC\SecureStore\SecureStoreSolution\SecureStoreService\obj\Debug\netcoreapp3.1\SecureStoreService.Properties.Resources.resources
+C:\Users\chase\source\Repos (Project)\Assimalign LLC\SecureStore\SecureStoreSolution\SecureStoreService\obj\Debug\netcoreapp3.1\SecureStoreService.csproj.GenerateResource.cache
+C:\Users\chase\source\Repos (Project)\Assimalign LLC\SecureStore\SecureStoreSolution\SecureStoreService\obj\Debug\netcoreapp3.1\SecureStoreService.csproj.CoreCompileInputs.cache
+C:\Users\chase\source\Repos (Project)\Assimalign LLC\SecureStore\SecureStoreSolution\SecureStoreService\obj\Debug\netcoreapp3.1\SecureStoreService.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\chase\source\Repos (Project)\Assimalign LLC\SecureStore\SecureStoreSolution\SecureStoreService\obj\Debug\netcoreapp3.1\SecureStoreService.RazorAssemblyInfo.cache
+C:\Users\chase\source\Repos (Project)\Assimalign LLC\SecureStore\SecureStoreSolution\SecureStoreService\obj\Debug\netcoreapp3.1\SecureStoreService.RazorAssemblyInfo.cs
+C:\Users\chase\source\Repos (Project)\Assimalign LLC\SecureStore\SecureStoreSolution\SecureStoreService\obj\Debug\netcoreapp3.1\SecureStoreService.AssemblyInfoInputs.cache
+C:\Users\chase\source\Repos (Project)\Assimalign LLC\SecureStore\SecureStoreSolution\SecureStoreService\obj\Debug\netcoreapp3.1\SecureStoreService.AssemblyInfo.cs
+C:\Users\chase\source\Repos (Project)\Assimalign LLC\SecureStore\SecureStoreSolution\SecureStoreService\obj\Debug\netcoreapp3.1\SecureStoreService.TagHelpers.input.cache
+C:\Users\chase\source\Repos (Project)\Assimalign LLC\SecureStore\SecureStoreSolution\SecureStoreService\obj\Debug\netcoreapp3.1\SecureStoreService.TagHelpers.output.cache
+C:\Users\chase\source\Repos (Project)\Assimalign LLC\SecureStore\SecureStoreSolution\SecureStoreService\obj\Debug\netcoreapp3.1\SecureStoreService.RazorCoreGenerate.cache
+C:\Users\chase\source\Repos (Project)\Assimalign LLC\SecureStore\SecureStoreSolution\SecureStoreService\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+C:\Users\chase\source\Repos (Project)\Assimalign LLC\SecureStore\SecureStoreSolution\SecureStoreService\obj\Debug\netcoreapp3.1\Razor\Pages\Maintenance\Credentials.cshtml.g.cs
+C:\Users\chase\source\Repos (Project)\Assimalign LLC\SecureStore\SecureStoreSolution\SecureStoreService\obj\Debug\netcoreapp3.1\Razor\Pages\Maintenance\Main.cshtml.g.cs
+C:\Users\chase\source\Repos (Project)\Assimalign LLC\SecureStore\SecureStoreSolution\SecureStoreService\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\chase\source\Repos (Project)\Assimalign LLC\SecureStore\SecureStoreSolution\SecureStoreService\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\chase\source\Repos (Project)\Assimalign LLC\SecureStore\SecureStoreSolution\SecureStoreService\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\chase\source\Repos (Project)\Assimalign LLC\SecureStore\SecureStoreSolution\SecureStoreService\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\chase\source\Repos (Project)\Assimalign LLC\SecureStore\SecureStoreSolution\SecureStoreService\obj\Debug\netcoreapp3.1\SecureStoreService.RazorTargetAssemblyInfo.cache
+C:\Users\chase\source\Repos (Project)\Assimalign LLC\SecureStore\SecureStoreSolution\SecureStoreService\obj\Debug\netcoreapp3.1\SecureStoreService.RazorTargetAssemblyInfo.cs
+C:\Users\chase\source\Repos (Project)\Assimalign LLC\SecureStore\SecureStoreSolution\SecureStoreService\obj\Debug\netcoreapp3.1\SecureStoreService.Views.pdb
+C:\Users\chase\source\Repos (Project)\Assimalign LLC\SecureStore\SecureStoreSolution\SecureStoreService\obj\Debug\netcoreapp3.1\SecureStoreService.csproj.CopyComplete
+C:\Users\chase\source\Repos (Project)\Assimalign LLC\SecureStore\SecureStoreSolution\SecureStoreService\obj\Debug\netcoreapp3.1\staticwebassets\SecureStoreService.StaticWebAssets.Manifest.cache
+C:\Users\chase\source\Repos (Project)\Assimalign LLC\SecureStore\SecureStoreSolution\SecureStoreService\obj\Debug\netcoreapp3.1\staticwebassets\SecureStoreService.StaticWebAssets.xml
+C:\Users\chase\source\Repos (Project)\Assimalign LLC\SecureStore\SecureStoreSolution\SecureStoreService\obj\Debug\netcoreapp3.1\SecureStoreService.dll
+C:\Users\chase\source\Repos (Project)\Assimalign LLC\SecureStore\SecureStoreSolution\SecureStoreService\obj\Debug\netcoreapp3.1\SecureStoreService.pdb
+C:\Users\chase\source\Repos (Project)\Assimalign LLC\SecureStore\SecureStoreSolution\SecureStoreService\obj\Debug\netcoreapp3.1\SecureStoreService.genruntimeconfig.cache
+P:\Assimalign LLC\SecureStore\SecureStoreSolution\SecureStoreService\obj\Debug\netcoreapp3.1\SecureStoreService.csprojAssemblyReference.cache
+C:\Users\chase\source\Repos (Project)\Assimalign LLC\SecureStore\SecureStoreSolution\SecureStoreService\obj\Debug\netcoreapp3.1\Razor\Pages\Maintenance\Documentation.cshtml.g.cs
+P:\Assimalign LLC\SecureStore\SecureStoreSolution\SecureStoreService\obj\Debug\netcoreapp3.1\Razor\Pages\Maintenance\Documentation.cshtml.g.cs
+P:\Assimalign LLC\SecureStore\SecureStoreSolution\SecureStoreService\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Login.cshtml.g.cs
+P:\Assimalign LLC\SecureStore\SecureStoreSolution\SecureStoreService\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+P:\Assimalign LLC\SecureStore\SecureStoreSolution\SecureStoreService\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+P:\Assimalign LLC\SecureStore\SecureStoreSolution\SecureStoreService\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+P:\Assimalign LLC\SecureStore\SecureStoreSolution\SecureStoreService\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+P:\Assimalign LLC\SecureStore\SecureStoreSolution\SecureStoreService\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+P:\Assimalign LLC\SecureStore\SecureStoreSolution\SecureStoreService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+P:\Assimalign LLC\SecureStore\SecureStoreSolution\SecureStoreService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+P:\Assimalign LLC\SecureStore\SecureStoreSolution\SecureStoreService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+P:\Assimalign LLC\SecureStore\SecureStoreSolution\SecureStoreService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+P:\Assimalign LLC\SecureStore\SecureStoreSolution\SecureStoreService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+P:\Assimalign LLC\SecureStore\SecureStoreSolution\SecureStoreService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+P:\Assimalign LLC\SecureStore\SecureStoreSolution\SecureStoreService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+P:\Assimalign LLC\SecureStore\SecureStoreSolution\SecureStoreService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+P:\Assimalign LLC\SecureStore\SecureStoreSolution\SecureStoreService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+P:\Assimalign LLC\SecureStore\SecureStoreSolution\SecureStoreService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+P:\Assimalign LLC\SecureStore\SecureStoreSolution\SecureStoreService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+P:\Assimalign LLC\SecureStore\SecureStoreSolution\SecureStoreService\bin\Debug\netcoreapp3.1\SecureStoreService.StaticWebAssets.xml
+P:\Assimalign LLC\SecureStore\SecureStoreSolution\SecureStoreService\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+P:\Assimalign LLC\SecureStore\SecureStoreSolution\SecureStoreService\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+P:\Assimalign LLC\SecureStore\SecureStoreSolution\SecureStoreService\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+P:\Assimalign LLC\SecureStore\SecureStoreSolution\SecureStoreService\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+P:\Assimalign LLC\SecureStore\SecureStoreSolution\SecureStoreService\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+P:\Assimalign LLC\SecureStore\SecureStoreSolution\SecureStoreService\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+P:\Assimalign LLC\SecureStore\SecureStoreSolution\SecureStoreService\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+P:\Assimalign LLC\SecureStore\SecureStoreSolution\SecureStoreService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+P:\Assimalign LLC\SecureStore\SecureStoreSolution\SecureStoreService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Embedded.dll
+P:\Assimalign LLC\SecureStore\SecureStoreSolution\SecureStoreService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+P:\Assimalign LLC\SecureStore\SecureStoreSolution\SecureStoreService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+P:\Assimalign LLC\SecureStore\SecureStoreSolution\SecureStoreService\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+P:\Assimalign LLC\SecureStore\SecureStoreSolution\SecureStoreService\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+P:\Assimalign LLC\SecureStore\SecureStoreSolution\SecureStoreService\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+P:\Assimalign LLC\SecureStore\SecureStoreSolution\SecureStoreService\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+P:\Assimalign LLC\SecureStore\SecureStoreSolution\SecureStoreService\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+P:\Assimalign LLC\SecureStore\SecureStoreSolution\SecureStoreService\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+P:\Assimalign LLC\SecureStore\SecureStoreSolution\SecureStoreService\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+P:\Assimalign LLC\SecureStore\SecureStoreSolution\SecureStoreService\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+P:\Assimalign LLC\SecureStore\SecureStoreSolution\SecureStoreService\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+P:\Assimalign LLC\SecureStore\SecureStoreSolution\SecureStoreService\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+P:\Assimalign LLC\SecureStore\SecureStoreSolution\SecureStoreService\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+P:\Assimalign LLC\SecureStore\SecureStoreSolution\SecureStoreService\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\AccessDenied.cshtml.g.cs
+P:\Assimalign LLC\SecureStore\SecureStoreSolution\SecureStoreService\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ConfirmEmail.cshtml.g.cs
+P:\Assimalign LLC\SecureStore\SecureStoreSolution\SecureStoreService\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ConfirmEmailChange.cshtml.g.cs
+P:\Assimalign LLC\SecureStore\SecureStoreSolution\SecureStoreService\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ExternalLogin.cshtml.g.cs
+P:\Assimalign LLC\SecureStore\SecureStoreSolution\SecureStoreService\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ForgotPassword.cshtml.g.cs
+P:\Assimalign LLC\SecureStore\SecureStoreSolution\SecureStoreService\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ForgotPasswordConfirmation.cshtml.g.cs
+P:\Assimalign LLC\SecureStore\SecureStoreSolution\SecureStoreService\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Lockout.cshtml.g.cs
+P:\Assimalign LLC\SecureStore\SecureStoreSolution\SecureStoreService\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Login.cshtml.g.cs
+P:\Assimalign LLC\SecureStore\SecureStoreSolution\SecureStoreService\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\LoginWith2fa.cshtml.g.cs
+P:\Assimalign LLC\SecureStore\SecureStoreSolution\SecureStoreService\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\LoginWithRecoveryCode.cshtml.g.cs
+P:\Assimalign LLC\SecureStore\SecureStoreSolution\SecureStoreService\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Logout.cshtml.g.cs
+P:\Assimalign LLC\SecureStore\SecureStoreSolution\SecureStoreService\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\ChangePassword.cshtml.g.cs
+P:\Assimalign LLC\SecureStore\SecureStoreSolution\SecureStoreService\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\DeletePersonalData.cshtml.g.cs
+P:\Assimalign LLC\SecureStore\SecureStoreSolution\SecureStoreService\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\Disable2fa.cshtml.g.cs
+P:\Assimalign LLC\SecureStore\SecureStoreSolution\SecureStoreService\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\DownloadPersonalData.cshtml.g.cs
+P:\Assimalign LLC\SecureStore\SecureStoreSolution\SecureStoreService\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\Email.cshtml.g.cs
+P:\Assimalign LLC\SecureStore\SecureStoreSolution\SecureStoreService\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\EnableAuthenticator.cshtml.g.cs
+P:\Assimalign LLC\SecureStore\SecureStoreSolution\SecureStoreService\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\ExternalLogins.cshtml.g.cs
+P:\Assimalign LLC\SecureStore\SecureStoreSolution\SecureStoreService\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\GenerateRecoveryCodes.cshtml.g.cs
+P:\Assimalign LLC\SecureStore\SecureStoreSolution\SecureStoreService\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\Index.cshtml.g.cs
+P:\Assimalign LLC\SecureStore\SecureStoreSolution\SecureStoreService\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\PersonalData.cshtml.g.cs
+P:\Assimalign LLC\SecureStore\SecureStoreSolution\SecureStoreService\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\ResetAuthenticator.cshtml.g.cs
+P:\Assimalign LLC\SecureStore\SecureStoreSolution\SecureStoreService\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\SetPassword.cshtml.g.cs
+P:\Assimalign LLC\SecureStore\SecureStoreSolution\SecureStoreService\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\ShowRecoveryCodes.cshtml.g.cs
+P:\Assimalign LLC\SecureStore\SecureStoreSolution\SecureStoreService\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\TwoFactorAuthentication.cshtml.g.cs
+P:\Assimalign LLC\SecureStore\SecureStoreSolution\SecureStoreService\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\_Layout.cshtml.g.cs
+P:\Assimalign LLC\SecureStore\SecureStoreSolution\SecureStoreService\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\_ManageNav.cshtml.g.cs
+P:\Assimalign LLC\SecureStore\SecureStoreSolution\SecureStoreService\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\_StatusMessage.cshtml.g.cs
+P:\Assimalign LLC\SecureStore\SecureStoreSolution\SecureStoreService\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\_ViewImports.cshtml.g.cs
+P:\Assimalign LLC\SecureStore\SecureStoreSolution\SecureStoreService\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Register.cshtml.g.cs
+P:\Assimalign LLC\SecureStore\SecureStoreSolution\SecureStoreService\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\RegisterConfirmation.cshtml.g.cs
+P:\Assimalign LLC\SecureStore\SecureStoreSolution\SecureStoreService\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ResendEmailConfirmation.cshtml.g.cs
+P:\Assimalign LLC\SecureStore\SecureStoreSolution\SecureStoreService\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ResetPassword.cshtml.g.cs
+P:\Assimalign LLC\SecureStore\SecureStoreSolution\SecureStoreService\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ResetPasswordConfirmation.cshtml.g.cs
+P:\Assimalign LLC\SecureStore\SecureStoreSolution\SecureStoreService\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\_StatusMessage.cshtml.g.cs
+P:\Assimalign LLC\SecureStore\SecureStoreSolution\SecureStoreService\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
+P:\Assimalign LLC\SecureStore\SecureStoreSolution\SecureStoreService\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Error.cshtml.g.cs
+P:\Assimalign LLC\SecureStore\SecureStoreSolution\SecureStoreService\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
+P:\Assimalign LLC\SecureStore\SecureStoreSolution\SecureStoreService\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
+P:\Assimalign LLC\SecureStore\SecureStoreSolution\SecureStoreService\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+P:\Assimalign LLC\SecureStore\SecureStoreSolution\SecureStoreService\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_LoginPartial.cshtml.g.cs
+P:\Assimalign LLC\SecureStore\SecureStoreSolution\SecureStoreService\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+P:\Assimalign LLC\SecureStore\SecureStoreSolution\SecureStoreService\obj\Debug\netcoreapp3.1\SecureStoreService.csproj.CoreCompileInputs.cache
+P:\Assimalign LLC\SecureStore\SecureStoreSolution\SecureStoreService\obj\Debug\netcoreapp3.1\SecureStoreService.MvcApplicationPartsAssemblyInfo.cs
+P:\Assimalign LLC\SecureStore\SecureStoreSolution\SecureStoreService\obj\Debug\netcoreapp3.1\SecureStoreService.MvcApplicationPartsAssemblyInfo.cache

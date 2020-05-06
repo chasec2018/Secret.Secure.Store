@@ -1,0 +1,53 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - Chase </title>
+    <link rel="stylesheet" href="~/lib/bootswatch/superhero/bootstrap.css" />
+    <script src="~/lib/bootstrap/dist/js/bootstrap.js"></script>
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    
+</head>
+<body>
+    <header class="pt-4 pb-2 pr-4 pl-4">
+        <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+            <a class="navbar-brand" asp-area="" asp-page="/Maintenance/Main">Assimalign LLC</a>
+            <button class="navbar-toggler text-white" type="button" data-toggle="collapse" data-target="#NavChoices" aria-controls="NavChoices" aria-expanded="false" aria-label="Nav Selections">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="NavChoices">
+                <ul class="navbar-nav mr-auto">
+                    <li class="nav-item active">
+                        <a class="nav-link" asp-area="" asp-page="/Maintenance/Main">Maintenance<span class="sr-only">(current)</span></a>
+                    </li>
+                    <li class="nav-item">
+                        <a class=" nav-link" asp-area="" asp-page="/Maintenance/Documentation">Documentation</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" asp-area="" asp-page="/Maintenance/">About</a>
+                    </li>
+                </ul>
+            </div>
+        </nav>
+    </header>
+    <main role="main">
+        <div class="container-fluid pt-2 pb-2 pr-4 pl-4">
+            @RenderBody()
+        </div>
+    </main>
+
+    <footer class="border-top footer text-muted">
+        <div class="container-fluid p-3">
+
+        </div>
+    </footer>
+
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.js"></script>
+    
+    <script src="~/js/site.js" asp-append-version="true"></script>
+
+    @RenderSection("Scripts", required: false)
+</body>
+</html>

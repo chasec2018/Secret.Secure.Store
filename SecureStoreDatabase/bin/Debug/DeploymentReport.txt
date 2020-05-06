@@ -1,0 +1,64 @@
+﻿** Highlights
+     Tables that will be rebuilt
+       None
+     Clustered indexes that will be dropped
+       None
+     Clustered indexes that will be created
+       None
+     Possible data issues
+       None
+
+** User actions
+     Create
+       [Store] (Schema)
+       [Store].[SecretVariables] (Table)
+       [Store].[SecretCredentials] (Table)
+       [Store].[SecretConnectionStrings] (Table)
+       [Store].[SecretTokens] (Table)
+       [Store].[AccessKeys] (Table)
+       [Store].[SecretClientRequestLog] (Table)
+       Default Constraint: unnamed constraint on [Store].[SecretVariables] (Default Constraint)
+       Default Constraint: unnamed constraint on [Store].[SecretVariables] (Default Constraint)
+       Default Constraint: unnamed constraint on [Store].[SecretVariables] (Default Constraint)
+       Default Constraint: unnamed constraint on [Store].[SecretVariables] (Default Constraint)
+       Default Constraint: unnamed constraint on [Store].[SecretCredentials] (Default Constraint)
+       Default Constraint: unnamed constraint on [Store].[SecretCredentials] (Default Constraint)
+       Default Constraint: unnamed constraint on [Store].[SecretCredentials] (Default Constraint)
+       Default Constraint: unnamed constraint on [Store].[SecretCredentials] (Default Constraint)
+       Default Constraint: unnamed constraint on [Store].[SecretConnectionStrings] (Default Constraint)
+       Default Constraint: unnamed constraint on [Store].[SecretConnectionStrings] (Default Constraint)
+       Default Constraint: unnamed constraint on [Store].[SecretConnectionStrings] (Default Constraint)
+       Default Constraint: unnamed constraint on [Store].[SecretConnectionStrings] (Default Constraint)
+       Default Constraint: unnamed constraint on [Store].[SecretTokens] (Default Constraint)
+       Default Constraint: unnamed constraint on [Store].[SecretTokens] (Default Constraint)
+       Default Constraint: unnamed constraint on [Store].[SecretTokens] (Default Constraint)
+       Default Constraint: unnamed constraint on [Store].[SecretTokens] (Default Constraint)
+       Default Constraint: unnamed constraint on [Store].[AccessKeys] (Default Constraint)
+       Default Constraint: unnamed constraint on [Store].[AccessKeys] (Default Constraint)
+       Default Constraint: unnamed constraint on [Store].[AccessKeys] (Default Constraint)
+       Default Constraint: unnamed constraint on [Store].[AccessKeys] (Default Constraint)
+       Default Constraint: unnamed constraint on [Store].[SecretClientRequestLog] (Default Constraint)
+       Default Constraint: unnamed constraint on [Store].[SecretClientRequestLog] (Default Constraint)
+       [Store].[ForeignKeyUsernameAD] (Foreign Key)
+       [Store].[ForeignKeyUsernameAA] (Foreign Key)
+       [Store].[ForeignKeyUsernameAB] (Foreign Key)
+       [Store].[ForeignKeyUsernameA] (Foreign Key)
+       [Store].[CheckRequestType] (Check Constraint)
+       [Store].[EntireStoreSecretSet] (View)
+       [store].[storekey] (Function)
+       Default Constraint: unnamed constraint on [Store].[SecretVariables] (Default Constraint)
+       Default Constraint: unnamed constraint on [Store].[SecretCredentials] (Default Constraint)
+       Default Constraint: unnamed constraint on [Store].[SecretConnectionStrings] (Default Constraint)
+       Default Constraint: unnamed constraint on [Store].[SecretTokens] (Default Constraint)
+       [Store].[OpenStoreSymmetricKey] (Procedure)
+       [Store].[ChangeSymmetricKeyPassphrase] (Procedure)
+       [Store].[ReturnErrorInformation] (Procedure)
+       [Store].[DeleteStoreSecret] (Procedure)
+       [Store].[CreateNewAccessKey] (Procedure)
+       [Store].[CreateStoreSecret] (Procedure)
+       [Store].[ReturnStoreSecret] (Procedure)
+       [Store].[ReturnAllUserSecrets] (Procedure)
+       [Store].[UpdateStoreSecret] (Procedure)
+       [Store].[CreateNewLogEntry] (Procedure)
+
+** Supporting actions

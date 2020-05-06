@@ -1,0 +1,9 @@
+P:\Assimalign LLC\SecureStore\SecureStoreSolution\SecureStoreLibrary\bin\Debug\netstandard2.0\SecureStore.Client.deps.json
+P:\Assimalign LLC\SecureStore\SecureStoreSolution\SecureStoreLibrary\bin\Debug\netstandard2.0\SecureStore.Client.dll
+P:\Assimalign LLC\SecureStore\SecureStoreSolution\SecureStoreLibrary\bin\Debug\netstandard2.0\SecureStore.Client.pdb
+P:\Assimalign LLC\SecureStore\SecureStoreSolution\SecureStoreLibrary\obj\Debug\netstandard2.0\SecureStoreLibrary.csprojAssemblyReference.cache
+P:\Assimalign LLC\SecureStore\SecureStoreSolution\SecureStoreLibrary\obj\Debug\netstandard2.0\SecureStoreLibrary.csproj.CoreCompileInputs.cache
+P:\Assimalign LLC\SecureStore\SecureStoreSolution\SecureStoreLibrary\obj\Debug\netstandard2.0\SecureStoreLibrary.AssemblyInfoInputs.cache
+P:\Assimalign LLC\SecureStore\SecureStoreSolution\SecureStoreLibrary\obj\Debug\netstandard2.0\SecureStoreLibrary.AssemblyInfo.cs
+P:\Assimalign LLC\SecureStore\SecureStoreSolution\SecureStoreLibrary\obj\Debug\netstandard2.0\SecureStore.Client.dll
+P:\Assimalign LLC\SecureStore\SecureStoreSolution\SecureStoreLibrary\obj\Debug\netstandard2.0\SecureStore.Client.pdb

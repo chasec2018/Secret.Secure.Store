@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "wKakseG3/H+rKosAYyzq70ypCgGg+tX7VJZAk868QZ72naGtdpUzdHfZM/PbpuVEJEVw4nMGLyjFGICzqjH4EQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\chase\\source\\Repos (Project)\\Personal\\Secret.Secure.Store\\SecureStoreLibrary\\SecureStoreLibrary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
